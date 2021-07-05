@@ -1,7 +1,7 @@
 # Adams~~Gallery
 
-# Author
-[Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675
+## Author
+### [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 ## Description
 Adams ~~ Gallery is a picture gallery made with django application that allows users display their photos for others to see.
 
