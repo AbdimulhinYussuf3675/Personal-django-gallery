@@ -1,9 +1,11 @@
 # Adams~~Gallery
+
+# Author
+[Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675
 ## Description
 Adams ~~ Gallery is a picture gallery made with django application that allows users display their photos for others to see.
 
-# Author
-[Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
+)
 
 ## Setup Instructions:
 ### Requirements
@@ -76,11 +78,6 @@ then run the command below;
 To run the application on your development machine,
 
     python3 manage.py runserver
-
-### Running Tests
->To run tests;
-
-    python manage.py test
 
 ## Technologies Used
 * Django
