@@ -49,12 +49,10 @@
                         {% endfor %}
                     </div>
                     <div class="modal-footer">
-                        <input class="form-control input-lg" type="text" style="font-size: 15px;"
-                            value="{{image.image.url}}" id="{{image.id}}.url">
-                        <button class="btn btn-success btn-sm" onclick="copyToClipboard('{{image.id}}.url')"
-                            style="font-size: 15px;">Copy</button>
-                        <button type="button" class="btn btn-outline-danger btn-sm" data-dismiss="modal"
-                            style="font-size: 15px;">Close
+                        <input class="form-control input-lg" type="text" style="font-size: 15px;" value="{{image.image.url}}"
+                            id="{{image.id}}.url">
+                        <button class="btn btn-success btn-sm"  onclick="copyToClipboard('{{image.id}}.url')" style="font-size: 15px;">Copy</button>
+                        <button type="button" class="btn btn-outline-danger btn-sm" data-dismiss="modal" style="font-size: 15px;">Close
                         </button>
                     </div>
                 </div>
