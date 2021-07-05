@@ -3,7 +3,7 @@
 ## Author
 ### [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 ## Description
-Adams ~~ Gallery is a picture gallery made with django application that allows users display their photos for others to see.
+Adams ~~ Gallery is a picture gallery made with a Django application that allows users to display their photos for others to see.
 
 )
 
@@ -85,6 +85,7 @@ To run the application on your development machine,
 * Html
 * Css
 * Bootstrap3
+* Django-Admin
 
 
 ## User stories
