@@ -3,7 +3,7 @@
 ## Author
 ### [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 ## Description
-Adams ~~ Gallery is a picture gallery made with a Django application that allows users to display their photos for others to see.
+Adams ~~ Gallery is a picture gallery made with a Django application that allows user to display own photos for others to view.
 
 )
 
@@ -28,21 +28,36 @@ cd Personal-django-gallery
  Install `Virtualenv`
 
    ```prettier
-   pip install virtualenv
+   python3 -m venv venv
    ```
 
 To create a virtual environment named `virtual`, run
 
    ```prettier
-   virtualenv virtual
+   python3 -m venv Virtual
    ```
 To activate the virtual environment we just created, run
 
    ```bash
    source virtual/bin/activate
    ```
+##### 3. Create a django and create django projects
+ Install django
+ ```bash
+ pip install django==1.11
+  ```
+  Create django project
+  ```bash
+  django-admin startproject gallery.
+```
+create a Yussuf app
+ ```bash
+ django-admin startapp news
+ ```
 
-##### 3. Create a database
+
+
+##### 5. Create a database
 You'll need to create a new postgress database, Type the following command to access postgress
    ```bash
     $ psql
@@ -89,13 +104,13 @@ To run the application on your development machine,
 
 
 ## User stories
->As a user of the application I should be able to:
+>As a user I should be able to:
 
 * View different photos that interest me.
 * Click on a single photo to expand it and also view the details of the photo. The photo details must appear on a modal within      the same route as the main page.
 * Search for different categories of photos. (ie. Travel, Food)
-* Copy a link to the photo to share with my friends.
 * View photos based on the location they were taken.
+* Copy a link to the photo to share with my friends.
 
 
 ## Bugs
