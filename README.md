@@ -5,7 +5,7 @@
 ## Description
 Adams ~~ Gallery is a picture gallery made with a Django application that allows user to display own photos for others to view.
 
-)
+
 
 ## Setup Instructions:
 ### Requirements
