@@ -1,15 +1,9 @@
-# Pix-galore
-[![BCH compliance](https://bettercodehub.com/edge/badge/moharick/Github-search?branch=master)](https://bettercodehub.com/)
+# Adams~~Gallery
 ## Description
-Pix-galore is a picture gallery made with django application that allows users display their photos for others to see.
+Adams ~~ Gallery is a picture gallery made with django application that allows users display their photos for others to see.
 
-## Author
-### [Moharick](https://github.com/moharick)
-
-
-
-## Screenshots
-<img src="https://github.com/moharick/pix-galore/blob/master/gallery/static/assets/screenshot.png" width="1000">
+# Author
+[Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 
 ## Setup Instructions:
 ### Requirements
@@ -18,14 +12,14 @@ Pix-galore is a picture gallery made with django application that allows users d
 Clone the the repository by running
 
    ```bash
-   git clone https://github.com/moharick/pix-galore.git
+   git clone https://github.com/AbdimulhinYussuf3675/Personal-django-gallery.git
    ```
  or download a zip file of the project from github
 
 
 Navigate to the project directory
 ```bash
-cd pix-galore
+cd Personal-django-gallery
 ```
 
 ##### 2. Create a virtual environment
@@ -51,9 +45,9 @@ You'll need to create a new postgress database, Type the following command to ac
    ```bash
     $ psql
    ```
-   Then run the following query to create a new database named ```gallery```
-   ```prettier
-   # create database gallery
+   Then run the following query to create a new database named ```picha```
+   ```
+   # create database picha
    ```
 
 
@@ -93,8 +87,7 @@ To run the application on your development machine,
 * Python
 * Html
 * Css
-* Javascript
-* Bootstrap
+* Bootstrap3
 
 
 ## User stories
@@ -112,14 +105,13 @@ There are no known bugs at the moment
 
 ## License
 [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](http://opensource.org/licenses/MIT)
->MIT license &copy;  2019 Moharick
+>MIT license &copy;  2021 Abdimulhin
 
-## Collaboration Information
+# Collaboration Information
 * Clone the repository
 * Make changes and write tests
 * Push changes to github
 * Create a pull request
 
-## Contacts
-> Send me an [email](moharick@gmail.com) to collaborate on the project.
-
+# Contacts
+adam.abdimulhi.001@gmail.com
